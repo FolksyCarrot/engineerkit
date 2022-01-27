@@ -74,7 +74,7 @@
 
    * Theorize why the pursuit of craftsmanship leads to a higher quality of work
 
-      <p><ul><li>I think the pursuit of craftsmanship leads to a higher quality of work because you are making an active choice to progress and perfect your craft everyday.</li><li>I think it can also be a signature of pride and become an embodiment of an individual. It eventually becomes a lifestyle, not just a mindset that you garner when you work, but something that you carry with you in your daily life.</li><li>When you develop a high passion to perfect something, you find an enjoyment in the process of it all, good and bad, not just the result. I think most can agree that happy workers tend to be more efficient.</li></ul></p>
+      <p><ul><li>I think the pursuit of craftsmanship leads to a higher quality of work because you are making an active choice to progress and perfect your craft everyday.</li><li>I think it can also be a signature of pride and become an embodiment of an individual. It eventually becomes a lifestyle, not just a mindset that you garner when you work, but something that you carry with you in your daily life.</li><li>When you develop a high passion to perfect something, you find an enjoyment in the process of it all, good and bad, not just the result. I think most can agree that happy workers tend to be more efficient, and will in turn lead to a higher quality of work.</li></ul></p>
 
    #### Resources
    * [Craftsmanship and Creativity: The Art of Showing Up Long After Passion Leaves `Article`](https://dallasblowers.medium.com/craftsmanship-and-creativity-the-art-of-showing-up-long-after-passion-leaves-998d3a562aa)
@@ -86,6 +86,12 @@
 
    #### Exercises
    * [Universal Craftsmanship](../exercises/craftsmanship/universal-craftsmanship.md)
+
+      <h3>3 Trades and the effect of the craftsmanship mindset</h3>
+      <p><ul><li>The first question asked is what mindset is required to find success. I think to go further into that, you must first define what success is. Success is usually thought of how much money you make or the prestige of your job. Meriam-Webster defines success as "the fact of getting or achieving wealth, respect, or fame". My personal definition of success is one in which an individual achieves their set goals and ultimately is happy. With this exercise, I hope to tackle the mindset question using both the Webster's definition and my own.</li></ul></p>
+      <p><ol><li>Carpenter</li><p>Going by the Webster's definition, I think that you can succeed in this field using the contemporary mindset and I'll explain why. The way that the housing market has recently boomed, coupled with the lower work force of carpenters, many of them have a demand far greater than they can supply. A carpenter can do "enough" to get the projects built and up to code without having to worry about much competition, or their customers going elsewhere. They don't have a real need to continually improve their craft to achieve wealth, respect, or fame. Also you bring into account that if you are a carpenter who is not on the architectural or design team, rather you do the "grunt" work, you can further exacerbate this mindset because you can get in the contemporary mindset of "mass production" and "automation".</p><li>Mechanic</li><p>placeholder</p><li>Welding</li><p>placeholder</p><ol></p>
+
+
 </details>
 
 ----
