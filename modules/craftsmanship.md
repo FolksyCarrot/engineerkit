@@ -60,7 +60,7 @@
 
    * Compare the craftsmanship mindset to the contemporary approach to work
 
-      <p><ul><li>The contemporary mindset follows the pattern of one-way to do things, as to reach mass production. The craftsman mindset is using all the tools at the disposal to creatively engineer many ways of achieving a the desired result.</li><li>The contemporary approach is also one in which things are produced with generally low product-life cycles, whereas a craftsman builds something with the intent that it will outlive the creator.</li><li>To reiterate, the contemporary approach is to produce in mass, as much as possible, with enough care to last around 3-5 years average. The craftsmanship mindset is different where the goal is to build something with passion to see it grow and endure longevity.</li></ul></p>
+      <p><ul><li>The contemporary mindset follows the pattern of one-way to do things, as to reach mass production. The craftsman mindset is using all the tools at the disposal to creatively engineer many ways of achieving the desired result.</li><li>The contemporary approach is also one in which things are produced with generally low product-life cycles, whereas a craftsman builds something with the intent that it will outlive the creator.</li><li>To reiterate, the contemporary approach is to produce in mass, as much as possible, with enough care to last around 3-5 years average. The craftsmanship mindset is different where the goal is to build something with passion to see it grow and endure longevity.</li></ul></p>
 
    * Explain what craftsmanship means to you and how you might apply it in your work
 
@@ -104,8 +104,16 @@
 
    #### Learning Outcomes
    * Describe the purpose of the software craftsmanship movement
+
+      <p><ul><li>According to <a href="https://www.agilealliance.org/software-craftsmanship/">Sandro Mancuso</a>, the movement is meant to bring back quality to software. Building software that is easily crafted, easy to revise, and is constantly providing value to its customers is the core of the movement that is achieved with the craftsmanship mindset. </li></ul></p>
+
    * Compare the software craftsmanship movement with the modern craftsmanship principles
+
+      <p><ul><li>Both the software and modern craftsmanship have many similarities to no one's surprise. Both are really founded on bringing the best quality you can to your craft. They both emphasize constantly improving your craft and reaching out to communities of others to share the knowledge.</li></ul></p>
+
    * Propose how you might go about creating positive change in the software engineering community
+
+      <p><ul><li>I can start by spreading the craftsmanship mindset with my school. At NSS, we aren't really taught in that way, probably due to the time constraint and how much there is to learn. But I could help by volunteering to speak at alumni events, mentoring current students and alumni, and passing around good resources to my fellow classmates that I am still in contact with.</li><li>I can also attend meetups and help spread the word. Nashville is a growing tech community and being involved with the Nashville community can give me access to reach out to others in this community and surrounding communities.</li></ul></p>
 
    #### Resources
    * [Manifesto for Agile Software Development `Document`](http://agilemanifesto.org/)
