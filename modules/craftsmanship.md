@@ -134,6 +134,9 @@
 
    #### Learning Outcomes
    * Describe the responsibilities of an apprentice during an apprenticeship
+
+      <p><ul><li>The responsibilities of an apprentice is to learn the craft of the mentor, as they do it (Sha). Then they are to understand the "why" or the underlying methods of what they learned (Ha). Lastly, they are to use the knowledge gained from the first 2 steps to then innovate and create their own methods of the craft, to which someday, they can teach to another (Ri).</li></ul></p>
+
    * Evaluate your preferred learning style(s) using the theory of multiple intelligences
    * Compare the apprenticeship learning model of shuhari to a traditional classroom model
    * Define what success looks like for you at the end of your apprenticeship
