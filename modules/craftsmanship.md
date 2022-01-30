@@ -134,9 +134,20 @@
 
    #### Learning Outcomes
    * Describe the responsibilities of an apprentice during an apprenticeship
+
+      <p><ul><li>The responsibilities of an apprentice is to learn the craft of the mentor, as they do it (Sha). Then they are to understand the "why" or the underlying methods of what they learned (Ha). Lastly, they are to use the knowledge gained from the first 2 steps to then innovate and create their own methods of the craft, to which someday, they can teach to another (Ri).</li></ul></p>
+
    * Evaluate your preferred learning style(s) using the theory of multiple intelligences
+
+      <p><ul><li>Of the multiple intelligences, I feel that visual-spatial and intrapersonal are the 2 that best describe my learning.</li><li>Visual-spatial is an important component to my learning. I am able to netter grasp concepts when I can visually see them in action, along with asking questions to better understand. I see something done, and then have the desire to try it myself, asking questions along the way.</li><li>Intrapersonal is another preferred style of mine. I don't have many strengths in the coding world YET, but I have always been one to work on my weaknesses and make them a strength. It is a simply philosophy that I have incorporated in my personal life, specifically in athletics and working out. Its a sound principle that I use because I want to purposely be uncomfortable, so that I can grow.</li></ul></p>
+
    * Compare the apprenticeship learning model of shuhari to a traditional classroom model
+
+      <p><ul><li>The model of shuhari differs a little bit from the traditional classroom model. The Shu is typical of most classroom learning settings. Students watch the master (teacher) and imitate them. They spend hours watching them or listening to powerpoints they present. Mathematics is a prime subject that represents Shu very well. Other conceptual subjects may be harder to "imitate" other than to absorb the information and regurgitate it.</li><li>The Ha falls into many of the same categories of the Shu. Assimilation is one that takes years to really master. It is the section where the deep understanding occurs and questions are being asked. This section of Shuhari further filters out many subjects that fall under the classroom model. Arithmetic such as those found in mathematics and physics can be found in the Ha section. Many subjects though will not reach this point as they are not taught for the reason of assimilation or integration, but rather taught to pass tests and show overall aptitude. Exceptions to this can be found in some targeted areas such as some college courses and bootcamps, but they may not follow the typical classroom models anyway.</li><li>The Ri part of Shuhari is not found in the typical classroom model. Innovating and making it your own is just not something that the classroom model incorporates, partly because most never reach the Ha level. This is what really separates the Shuhari learning model from the classroom model.</li></ul></p>
+
    * Define what success looks like for you at the end of your apprenticeship
+
+      <p><ul><li>For me, if accepted, success would be one in which I experience growth, starting with adopting the craftsmanship mindset. I want to put full effort into bringing high quality into my craft, my code, my teamwork, and my life. I want to further solidify my understanding of the code and the foundations for several languages. I finally wish to grow my knowledge to the point where I can eventually become a mentor in my own right.</li></ul></p>
 
    #### Resources
    * [Alistair Cockburn on _shuhari_ `Video`](https://www.youtube.com/watch?v=9Z35l238vg4)
