@@ -16,8 +16,16 @@
 
    #### Learning Outcomes
    * Explain the value of human experience in the software development process
+
+      <p><ul><li>Human experience is crucial when software developing because you are developing software to solve problems that exist with humans. Very rarely will you develop software that does not have humans as the user, so it's important to take that into account during the development process. Designing software that is specific to the needs of your human clients and their users is key to building quality software. Making error codes that speak in a way that is conducive to your clients and their users is one such element. Factoring in outside problems beyond the scope of the actual business can be key in making quality software, such as many people using video streaming services due to the pandemic. It will be very hard to produce software of the highest quality without factoring the human equation.</li></ul></p>
+
    * Describe the basics of UI and UX design as it relates to building software
+
+      <p><ul><li>UX design is really the big picture of the app design. UX design is like the wireframe, in which the overall layout and features of the application are designed. The UI is more visual based and is purposed around how the user will interact with the application. I like to think of the UX being more the function of the app, while the UI is the styling or CSS of the app.</li></ul></p>
+
    * Distinguish the difference between good and bad design in software
+
+      <p><ul><li>Bad design in software starts with developing a product that doesn't address the issues of the clients users. The big part of design is the "why" and if the software doesn't accurately address that, then it is a bad design.</li><li>Software that has many features that detract from the main purpose of the application is also bad design. You don't want to flood your user's senses with "useless noise". This abundance of features can lead to frustration from your users, as well as slow down the speed of your application, so its important to know your target audience when designing.</li><li>Good design in software is one in which the application and its features are easily accessible. You don't want users to have to jump through hoops to access their data, nor do you want the data to be displayed in a way in which the user does not understand. This will lead to confusion and frustration which are not attributes of well designed software.</li></ul></p>
 
    #### Resources
    * [10 Usability Heuristics for User Interface Design - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/ten-usability-heuristics/)
