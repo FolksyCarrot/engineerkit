@@ -162,6 +162,10 @@
    
    #### Exercises
    * [Create a Blog](../exercises/craftsmanship/create-a-blog.md)
+
+      <p><a href="https://keithparks13.substack.com/p/exercise-create-a-blog?r=18j5ki&utm_campaign=post&utm_medium=web">Link to my article on substack</a></p>
+      <p><ul><li>What surprised me the most about this exercise was the need to publish what my goals are, so that they are now visible to the public and open to ridicule, as well as constructive criticism.</li><li>This exercise stretched me in the fact that I have gone public with my goals. Normally goals are thought of as internal steps that someone wishes to accomplish, so making them public puts me out of my comfort zone. I am also the type of individual who is generally very private, so that further puts me out of my comfort zone and is will hopefully make me more comfortable sharing in large groups.</li><li>Form here I wish to further push myself out of my comfort zone so that I can continue to grow.</li></ul></p>
+
 </details>
 
 ----
@@ -173,8 +177,17 @@
 
    #### Learning Outcomes
    * Describe the responsibilities of a mentor during an apprenticeship
+
+      <p><ul><li>The big responsibility of the mentor is to grow mutually alongside the individual(s) being mentored. The mentor shows the mentorees that being in the "stretch" zone is a constant thing and that its okay to make mistakes and take hits to your ego, as long as you are learning from them and continuing your own growth.</li></ul></p>
+
    * Compare the role of a mentor with the role of a teacher
+
+      <p><ul><li>The role of a mentor is quite similar to a teacher a teacher with one big difference. Both a teacher and a mentor ares supposed to "teach" their subjects. The intent is to further the knowledge and growth of the subjects beyond their previous knowledge. Both will take similar steps in showing the way the mentor/teacher accomplishes their desired goal and then answering questions that may follow. The big differences in between a mentor and a teacher is how far the growth extends. A teacher teaches the material until the subjects become proficient enough to pass the tests and that is all. They do not further push the students and encourage more beyond the scope of the class. A mentor however, wants their subjects to constantly be in the "stretch" zone. They want to further their growth/education beyond the scope of a normal class and want to instill the value of "continual learning". A teacher is satisfied with their subjects being in the "comfort" zone, so long as they are proficient in class, whereas a mentor is not.</li></ul></p>
+
    * Define what success might look like for your mentor at the end of your apprenticeship
+
+      <p><h5>Success for my mentor can will consist of:</h5><ul><li>First and foremost, success for my mentor will be accomplished if I, as an apprentice, reach what I have defined as success.</li><li>Success for my  mentor will be accomplished if they not only challenge me but I am able to challenge them, and keep them in a constant "stretch" zone.</li><li>If at the end of my apprenticeship, I am able to become a mentor in my own right.</li><li>Lastly, I think success will be achieved if both my mentor and I create a very synergetic work relationship so that we can further help the company and provide greater quality to our clients.</li></ul></p>
+
 
    #### Resources
    * [Annie Murphy Paul: Why Teaching Someone Else is the Best Way To Learn `Article`](https://ideas.time.com/2011/11/30/the-protege-effect/)
