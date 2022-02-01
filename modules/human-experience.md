@@ -36,6 +36,11 @@
 
    #### Exercises
    * [Digital Product Design Assessment](../exercises/human-experience/digital-product-design-assessment.md)
+
+      <ul><li><a href="https://docs.google.com/document/d/1_t-68P7BI_xWEv7_u2YoF1PxqmVfS0uMt44Iuw73i08/edit?usp=sharing">Google doc for my exercise</a></li></ul>
+
+      <p><ul><li>The conclusion I got from this exercise is that I learned to breakdown an app that I already frequently use into the 2 parts of UX and UI. I observed where it did things well and areas that need improvement. This exercise stretched me because it made me observe an app into a way that I had never thought about it previously.</li><li>What surprised me about this exercise was how I was able to break down the app and distinguish it into the 2 parts.</li><li>An excellent digital product is one in which the UX and UI are blended seamlessly and work in harmony. You want an application that solves the "why" of the problem it is trying to solve, while also having a user-friendly interface that allows for easy readability and accessability</li><li>From here, I wish to continue to learn more about the design process that factors in the human experience and further the growth of my craft.</li></ul></p>
+
    * Discuss good/favorite designed products
    * Collecting inspiration
    * Go over ways the engineers can affect UX
