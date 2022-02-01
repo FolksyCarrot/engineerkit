@@ -16,8 +16,16 @@
 
    #### Learning Outcomes
    * Explain the value of human experience in the software development process
+
+      <p><ul><li>Human experience is crucial when software developing because you are developing software to solve problems that exist with humans. Very rarely will you develop software that does not have humans as the user, so it's important to take that into account during the development process. Designing software that is specific to the needs of your human clients and their users is key to building quality software. Making error codes that speak in a way that is conducive to your clients and their users is one such element. Factoring in outside problems beyond the scope of the actual business can be key in making quality software, such as many people using video streaming services due to the pandemic. It will be very hard to produce software of the highest quality without factoring the human equation.</li></ul></p>
+
    * Describe the basics of UI and UX design as it relates to building software
+
+      <p><ul><li>UX design is really the big picture of the app design. UX design is like the wireframe, in which the overall layout and features of the application are designed. The UI is more visual based and is purposed around how the user will interact with the application. I like to think of the UX being more the function of the app, while the UI is the styling or CSS of the app.</li></ul></p>
+
    * Distinguish the difference between good and bad design in software
+
+      <p><ul><li>Bad design in software starts with developing a product that doesn't address the issues of the clients users. The big part of design is the "why" and if the software doesn't accurately address that, then it is a bad design.</li><li>Software that has many features that detract from the main purpose of the application is also bad design. You don't want to flood your user's senses with "useless noise". This abundance of features can lead to frustration from your users, as well as slow down the speed of your application, so its important to know your target audience when designing.</li><li>Good design in software is one in which the application and its features are easily accessible. You don't want users to have to jump through hoops to access their data, nor do you want the data to be displayed in a way in which the user does not understand. This will lead to confusion and frustration which are not attributes of well designed software.</li></ul></p>
 
    #### Resources
    * [10 Usability Heuristics for User Interface Design - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/ten-usability-heuristics/)
@@ -28,6 +36,11 @@
 
    #### Exercises
    * [Digital Product Design Assessment](../exercises/human-experience/digital-product-design-assessment.md)
+
+      <ul><li><a href="https://docs.google.com/document/d/1_t-68P7BI_xWEv7_u2YoF1PxqmVfS0uMt44Iuw73i08/edit?usp=sharing">Google doc for my exercise</a></li></ul>
+
+      <p><ul><li>The conclusion I got from this exercise is that I learned to breakdown an app that I already frequently use into the 2 parts of UX and UI. I observed where it did things well and areas that need improvement. This exercise stretched me because it made me observe an app into a way that I had never thought about it previously.</li><li>What surprised me about this exercise was how I was able to break down the app and distinguish it into the 2 parts.</li><li>An excellent digital product is one in which the UX and UI are blended seamlessly and work in harmony. You want an application that solves the "why" of the problem it is trying to solve, while also having a user-friendly interface that allows for easy readability and accessability</li><li>From here, I wish to continue to learn more about the design process that factors in the human experience and further the growth of my craft.</li></ul></p>
+
    * Discuss good/favorite designed products
    * Collecting inspiration
    * Go over ways the engineers can affect UX
@@ -57,6 +70,9 @@
 
    #### Exercises
    * [Process Observation (Empathy Mapping)](../exercises/human-experience/process-observation.md) 
+
+      <p><ul><li><a href="https://miro.com/app/board/uXjVOQxNPPg=/?invite_link_id=375878972380">View Board</a></li></ul></p>
+
    * Empathy Exercises: Observe and document the steps of a process
    * Ideation Exercise: Ideate and brainstorm with the team on a topic or task
    * Prototyping Exercise: Create a paper prototype
