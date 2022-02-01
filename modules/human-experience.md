@@ -70,6 +70,9 @@
 
    #### Exercises
    * [Process Observation (Empathy Mapping)](../exercises/human-experience/process-observation.md) 
+
+      <p><ul><li><a href="https://miro.com/app/board/uXjVOQxNPPg=/?invite_link_id=375878972380">View Board</a></li></ul></p>
+
    * Empathy Exercises: Observe and document the steps of a process
    * Ideation Exercise: Ideate and brainstorm with the team on a topic or task
    * Prototyping Exercise: Create a paper prototype
