@@ -85,8 +85,13 @@
 
    Learn how to use, contribute to, and maintain a design system for building web applications.
 
+   <p><ul><li>Is this like using material UI but having a standard in the company of when to use what and it is very specific?</li></ul></p>
+
    #### Learning Outcomes
    * Explain what a design system is
+
+      <p><ul><li>Design system is more or less a standardized way that designs are carried out. This is done to keep the overall image of the company the same, such as standardized fonts and color scheme. This keeps consistency among many platforms while still allowing the flexibility to create many different applications. This also great because it allows it allows for rapid development and more time spent on complex issues rather than on redundant design issues.</li></ul></p>
+
    * Use a design system when working on software projects
    * Contribute to an existing design system for software projects
 
