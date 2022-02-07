@@ -186,7 +186,7 @@
 
    * Define what success might look like for your mentor at the end of your apprenticeship
 
-      <p><h5>Success for my mentor can will consist of:</h5><ul><li>First and foremost, success for my mentor will be accomplished if I, as an apprentice, reach what I have defined as success.</li><li>Success for my  mentor will be accomplished if they not only challenge me but I am able to challenge them, and keep them in a constant "stretch" zone.</li><li>If at the end of my apprenticeship, I am able to become a mentor in my own right.</li><li>Lastly, I think success will be achieved if both my mentor and I create a very synergetic work relationship so that we can further help the company and provide greater quality to our clients.</li></ul></p>
+      <p><h5>Success for my mentor can/will consist of:</h5><ul><li>First and foremost, success for my mentor will be accomplished if I, as an apprentice, reach what I have defined as success.</li><li>Success for my  mentor will be accomplished if they not only challenge me but I am able to challenge them, and keep them in a constant "stretch" zone.</li><li>If at the end of my apprenticeship, I am able to become a mentor in my own right.</li><li>Lastly, I think success will be achieved if both my mentor and I create a very synergetic work relationship so that we can further help the company and provide greater quality to our clients.</li></ul></p>
 
 
    #### Resources
