@@ -120,7 +120,13 @@
 
    #### Learning Outcomes
    * Explain the importance of accessibility in software
+
+      <p><ul><li>On the surface accessibility is important because it allows your users to navigate your application in a way that is easier for them. Sometimes, the applications are designed in a way that users with certain level of disabilities cannot access the data at all. This is the opposite of the desired result.</li><li>On a deeper level, it is important because it shows users with disabilities, that the development team actually cares. Having an application that is accessible to these users speaks volumes about the culture instilled at the company because these users face challenges everyday with applications that were not catered to their needs.</li></ul></p>
+
    * Develop software that meets standard accessibility requirements set forth by W3C
+
+      <p><h4>WCAG 4 core principles</h4><ol><li>Perceivable: people can see the content or hear it</li><li>Operable: people can use the computer by typing, or by voice.</li><li>Understandable: People get clear and simple language.</li><li>Robust: people can use different assistive technologies</li></ol></p>
+
    * Recognize approaches to adapt your software to various languages and regions
 
    #### Resources
@@ -133,6 +139,11 @@
 
    #### Exercises
    * [Using an Accessibility Checker](../exercises/human-experience/using-an-accessibility-checker.md)
+
+      <p><img src="../espn.png">ESPN report</img><img src="../personalwebsite.png">personal Website Report</img><h4>Steps:</h4><ul><li>Step 8. Both websites had Text contrast issues with its background that were less than the WCAG AA minimum. Both websites had countless "Content is not within a landmark element" issues.</li></ul></p>
+
+      <p><h4>Reflection</h4><ul><li>Each website scored fairly well, 92% for ESPN and 87% for my own personal website.</li><li>Some of the violations included text that needed to be larger and of heavier weight in contrast to the background. There were also several landmark element issues. Not sure how to fix the landmark issues but the text issues could be solved by meeting the minimum WCAG AA minimum.</li><li>I do not have a mentor yet, so there is nothing to discuss</li><li>What surprised me the most was how many errors that ESPN had, as well as how little errors my app had (given that I was unaware of accessability when I created it). I figured that ESPN being owned by a fortune 500 company (Disney), would have more awareness of accessability issues, given their size, workforce, and experience of developers. I was also very surprised that both ESPN and my own application had many of the same issues.</li><li>From here, I would like to learn how to be more accessability conscious, and implement it into the quality of my work. I would also like to learn how to improve my own app, make changes, and see my score improve.</li></ul></p>
+
    * Implement a color palette for color blindness in a webpage
    * Build a simple webpage using proper HTML semantics
    * Quiz: Define internationalization, localization, and accessibility
