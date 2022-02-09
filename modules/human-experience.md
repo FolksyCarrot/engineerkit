@@ -142,7 +142,7 @@
 
       <p><img src="../espn.png">ESPN report</img><img src="../personalwebsite.png">personal Website Report</img><h4>Steps:</h4><ul><li>Step 8. Both websites had Text contrast issues with its background that were less than the WCAG AA minimum. Both websites had countless "Content is not within a landmark element" issues.</li></ul></p>
 
-      <p><h4>Reflection</h4><ul><li>Each website scored fairly well, 92% for ESPN and 87% for my own personal website.</li><li>Some of the violations included text that needed to be larger and of heavier weight in contrast to the background. There were also several landmark element issues. Not sure how to fix the landmark issues but the text issues could be solved by meeting the minimum WCAG AA minimum.</li><li>I do not have a mentor yet, so there is nothing to discuss</li><li>What surprised me the most was how many errors that ESPN had, as well as how little errors my app had (given that I was unaware of accessability when I created it). I figured that ESPN being owned by a fortune 500 company (Disney), would have more awareness of accessability issues, given their size, workforce, and experience of developers. I was also very surprised that both ESPN and my own application had many of the same issues.</li><li>From here, I would like to learn how to be more accessability conscious, and implement it into the quality of my work. I would also like to learn how to improve my own app, make changes, and see my score improve.</li></ul></p>
+      <p><h4>Reflection</h4><ul><li>Each website scored fairly well, 90% for ESPN and 87% for my own personal website.</li><li>Some of the violations included text that needed to be larger and of heavier weight in contrast to the background. There were also several landmark element issues. Not sure how to fix the landmark issues but the text issues could be solved by meeting the minimum WCAG AA minimum.</li><li>I do not have a mentor yet, so there is nothing to discuss</li><li>What surprised me the most was how many errors that ESPN had, as well as how little errors my app had (given that I was unaware of accessability when I created it). I figured that ESPN being owned by a fortune 500 company (Disney), would have more awareness of accessability issues, given their size, workforce, and experience of developers. I was also very surprised that both ESPN and my own application had many of the same issues.</li><li>From here, I would like to learn how to be more accessability conscious, and implement it into the quality of my work. I would also like to learn how to improve my own app, make changes, and see my score improve.</li></ul></p>
 
    * Implement a color palette for color blindness in a webpage
    * Build a simple webpage using proper HTML semantics
@@ -158,12 +158,23 @@
 
    #### Learning Outcomes
    * Explain the role a digital product designer plays on a software team
+
+      <p><ul><li>The role of the product designer is to be in tune with the clients goals, and design a product that will fit the clients needs. This role is more effective when working in tandem with the development team to increase efficiency and decrease miscommunication problems.</li><li>They capture the product vision and ensure that their end designs will meet client and user expectations.</li><li>They define the entire user experience.</li></ul></p>
+
    * Identify what you need from a designer to complete software tasks
+
+      <p><ul><li>First and foremost, to build the best quality and most efficient software, A developer would need a firm understanding of the clients needs and business goals to best accommodate them.</li><li>The designer should also present a general UX designer to give the developer a guide to follow.</li><li>The designer should present a journey map, or at least have an understanding of it, that defines the entire user experience.</li></ul></p>
+
    * Recognize standard design tools and design methodologies when working with designers
+
+      <p><ul><li>Functional analysis is a key methodology used in design. This is imperative because it sets the tone of what the application is designed to accomplish and the problem it is intended to solve. This is best achieved with a thorough understanding of the clients needs and business goals.</li><li>A standardized order of operations between designers and developers is imperative because it increases efficiency and lowers the risk of problems arising from communication errors.</li></ul></p>
 
    #### Resources
    * [6 ways for designers and developers to collaborate better - Invision `Article`](https://www.invisionapp.com/inside-design/designer-developer-collaboration-ideas/)
    * [Intro to Design Terminology `Course`](https://app.uxcel.com/courses/design-lingo)
+
+      <p><ul><li><a href="https://app.uxcel.com/home">completed the free part of the course</a></li></ul></p>
+
    * [Abstract - The Art of Design: Netflix `Film ($)`](https://www.netflix.com/title/80057883)
    * Your company's designers!
 
